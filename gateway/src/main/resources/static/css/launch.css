@@ -88,7 +88,7 @@ only screen and (min-resolution: 144dpi) {
 	line-height: 0.95em;
 	display: inline-block;
 	font-family: Arial;
-	background-color: white;
+	background-color: yellow;
 }
 .fliptext a{
 	color: #96bcce;

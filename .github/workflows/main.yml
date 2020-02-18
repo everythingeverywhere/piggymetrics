@@ -2,7 +2,7 @@ name: AzureSpringCloud
 
 env:
   GROUP: resource-group
-  SERVICE_NAME: github-pipeline
+  SERVICE_NAME: azure-spring-cloud
 
 on: push
 

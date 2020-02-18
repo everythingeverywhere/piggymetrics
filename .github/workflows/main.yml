@@ -4,6 +4,8 @@ env:
   GROUP: resource-group
   SERVICE_NAME: github-pipeline
 
+on: push
+
 jobs:
   build-and-deploy:
     runs-on: ubuntu-latest

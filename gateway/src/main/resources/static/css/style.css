@@ -1398,7 +1398,7 @@ input#deposit:checked + label.button:after, input#capitalization:checked + label
 * {
 	margin: 0;
 	padding: 0;
-	background-color: orange;
+	background-color: white;
 }
 .modalselects .selectbox {
 	color: #333;
